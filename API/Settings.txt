@@ -1,1 +1,0 @@
-["settings",{"name":"SandeLLo CHECKER","version":"2.0.0.0","isActive":"рнн"},"links",{"mainupdate":"SandeLLo CHECKER","apps":"2.0.0.0","isActive":"рнн"}]
